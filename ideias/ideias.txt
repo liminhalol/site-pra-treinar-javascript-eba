@@ -1,0 +1,5 @@
+- timerzinho pra abrir o site bem bonitinho - https://emmpo.com/
+- fazer as coisa aparecer enquanto vc scrolla tlgd vc aprendeu esse
+- alguma nav que quando da hove rme um item os outro fica escuro tlgd -- FEITO
+- sonzinho nos botao?
+- spa no começo uma grid de imagem girando tlgd?

@@ -1,0 +1,141 @@
+ <section class="section-songs">
+      <h1 class="songs-heading">Os album <br />mais brabo!</h1>
+      <div class="songs-grid">
+        <div
+          class="song-image-container song-image-container--big"
+          data-album-info="Nights$Blonde$Frank Ocean$#49986b$Nights.opus"
+        >
+          <img src="images/album covers/Blonde.jpg" class="song-image" />
+        </div>
+        <div
+          class="song-image-container"
+          data-album-info="GONE, GONE / THANK YOU$IGOR$Tyler, the Creator$#eea4bb$GONE, GONE ⧸ THANK YOU.opus"
+        >
+          <img src="images/album covers/IGOR.jpg" class="song-image" />
+        </div>
+        <div
+          class="song-image-container"
+          data-album-info="Long Time (Intro)$Die Lit$Playboi Carti$#b0b0b0$Long Time (Intro).opus"
+        >
+          <img src="images/album covers/Die Lit.jpg" class="song-image" />
+        </div>
+
+        <div
+          class="song-image-container"
+          data-album-info="Over$Whole Lotta Red$Playboi Carti$#dc0f10$Over.opus"
+        >
+          <img
+            src="images/album covers/Whole Lotta Red.jpg"
+            class="song-image"
+          />
+        </div>
+        <div
+          class="song-image-container"
+          data-album-info="Não sou mais um$Trashtalk$Yun Li$#deed27$não sou mais um.opus"
+        >
+          <img src="images/album covers/Trashtalk.jpg" class="song-image" />
+        </div>
+        <div
+          class="song-image-container"
+          data-album-info="Wesley's Theory$To Pimp a Butterfly$Kendrick Lamar$#e9e9ea$Wesley's Theory.opus"
+        >
+          <img
+            src="images/album covers/To Pimp a Butterfly.jpg"
+            class="song-image"
+          />
+        </div>
+        <div
+          class="song-image-container"
+          data-album-info="School Spirit$The College Dropout$Kanye West$#e29c27$School Spirit.opus"
+        >
+          <img
+            src="images/album covers/The College Dropout.jpg"
+            class="song-image"
+          />
+        </div>
+        <div
+          class="song-image-container"
+          data-album-info="Potholderz$MM...FOOD$MF DOOM$#ddd6b2$Potholderz.opus"
+        >
+          <img src="images/album covers/MM...FOOD.jpg" class="song-image" />
+        </div>
+        <div
+          class="song-image-container"
+          data-album-info="Valsa$Mixtape Pra Te Impressionar$Yun Li$#a8a3a3$Valsa.opus"
+        >
+          <img
+            src="images/album covers/Mixtape Pra Te Impressionar.jpg"
+            class="song-image"
+          />
+        </div>
+        <div
+          class="song-image-container"
+          data-album-info="America's Most Blunted$Madvillainy$Madvillain$#ff691e$America's Most Blunted.opus"
+        >
+          <img src="images/album covers/Madvillainy.jpg" class="song-image" />
+        </div>
+        <div
+          class="song-image-container"
+          data-album-info="m.A.A.d city$Good Kid, M.A.A.D City$Kendrick Lamar$#4893c5$m.A.A.d city.opus"
+        >
+          <img
+            src="images/album covers/Good Kid, M.A.A.D City.jpg"
+            class="song-image"
+          />
+        </div>
+        <div
+          class="song-image-container"
+          data-album-info="Take Your Mask Off$Chromakopia$Tyler, the Creator$#b4b095$Take Your Mask Off.opus"
+        >
+          <img src="images/album covers/Chromakopia.jpg" class="song-image" />
+        </div>
+        <div
+          class="song-image-container"
+          data-album-info="Forrest Gump$Channel Orange$Frank Ocean$#f37521$Forrest Gump.opus"
+        >
+          <img
+            src="images/album covers/Channel Orange.jpg"
+            class="song-image"
+          />
+        </div>
+        <div
+          class="song-image-container"
+          data-album-info="RISE!$Call Me If You Get Lost$Tyler, the Creator$#80DFDC$RISE!.opus"
+        >
+          <img
+            src="images/album covers/Call Me If You Get Lost.jpg"
+            class="song-image"
+          />
+        </div>
+        <div
+          class="song-image-container"
+          data-album-info="Monster$My Beautiful Dark Twisted Fantasy$Kanye West$#ec223e$Monster.opus"
+        >
+          <img
+            src="images/album covers/My Beautiful Dark Twisted Fantasy.jpg"
+            class="song-image"
+          />
+        </div>
+        <div
+          class="song-image-container"
+          data-album-info="Back Home$Bittersweet Memories$Yun Li$#f7833b$Back Home.opus"
+        >
+          <img
+            src="images/album covers/Bittersweet Memories.jpg"
+            class="song-image"
+          />
+        </div>
+        <div
+          class="song-image-container"
+          data-album-info="Agradeço$13 Lentes de um Final Feliz$Yun Li$#9fc7d6$Agradeço.opus"
+        >
+          <img
+            src="images/album covers/13 Lentes de um Final Feliz.png"
+            class="song-image"
+          />
+        </div>
+      </div>
+      <div class="songs-current-container">
+        <p class="songs-current">clica pra tocar!</p>
+      </div>
+    </section>

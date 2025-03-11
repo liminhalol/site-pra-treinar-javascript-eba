@@ -1,0 +1,86 @@
+.section__hero {
+  height: 100vh;
+  background-image: linear-gradient(
+      to bottom,
+      rgba(0, 0, 0, 0.548),
+      rgba(255, 255, 255, 0)
+    ),
+    url(../../images/header/header-big.png);
+  background-position: 0, -2rem -37rem;
+  margin-bottom: 12rem;
+}
+
+/* ===========[HEADER]=========== */
+.hero__heading {
+  font-size: 23rem;
+  color: var(--white-txt);
+  text-transform: uppercase;
+  letter-spacing: -7px;
+  line-height: 0.8;
+  margin-bottom: 1.4rem;
+  transition: all 0.3s;
+  transform-origin: left;
+  width: fit-content;
+}
+
+.hero__name {
+  color: #01e9bd;
+  transition: all 0.3s;
+}
+
+.hero__subheading {
+  font-family: "Generic";
+  color: var(--white-txt);
+  font-size: 4.6rem;
+  line-height: 0.9;
+}
+
+.hero__heading:hover {
+  color: #01e9bd;
+  transform: scale(1.01);
+}
+
+.hero__heading:hover .hero__name {
+  color: #fff;
+}
+/* ============================== */
+
+/* ===========[NAV]=========== */
+.hero__nav {
+  padding-top: 2.4rem;
+  margin-bottom: 18rem;
+}
+
+.hero__list {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+}
+
+.hero__link:link,
+.hero__link:visited {
+  position: relative;
+  font-size: 2.4rem;
+  color: #32ceaf;
+  text-decoration: none;
+  transition: all 0.3s;
+}
+
+.hero__link::before {
+  content: "";
+  position: absolute;
+  background-color: currentColor;
+  left: 0;
+  bottom: -2px;
+  width: 100%;
+  height: 3px;
+  transform: scaleX(0);
+  border-radius: 50px;
+  transform-origin: left;
+  transition: all 0.3s ease-out;
+}
+
+.hero__link:hover:before {
+  transform: scaleX(1);
+}
+/* =========================== */

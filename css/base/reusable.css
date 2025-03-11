@@ -1,0 +1,21 @@
+.text--center {
+  text-align: center;
+}
+
+.container {
+  max-width: 90%;
+  margin: 0 auto;
+}
+
+.hidden {
+  opacity: 0;
+  pointer-events: none;
+}
+
+.btn {
+  font-family: inherit;
+  border: none;
+  display: inline-block;
+  padding: 1rem 2rem;
+  cursor: pointer;
+}

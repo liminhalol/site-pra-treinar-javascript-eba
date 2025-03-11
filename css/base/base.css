@@ -1,0 +1,24 @@
+:root {
+  --white-txt: #fff;
+  --yellow-txt: #fff264;
+}
+
+html {
+  font-size: 62.5%;
+  scroll-behavior: smooth;
+}
+
+*,
+*::after,
+*::before {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  position: relative;
+  font-family: "Neue Montreal", sans-serif;
+  font-weight: 500;
+  line-height: 1;
+}
